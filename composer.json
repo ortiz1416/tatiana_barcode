@@ -1,0 +1,16 @@
+{
+    "name": "vendor/barcode",
+    "autoload": {
+        "psr-4": {
+            "Vendor\\Barcode\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "tatio"
+        }
+    ],
+    "require": {
+        "picqer/php-barcode-generator": "^2.4"
+    }
+}
